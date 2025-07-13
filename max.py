@@ -1,4 +1,4 @@
-a=[2,4,3,7,5,9]
+a=[2,4,3,7,5,9,10]
 max=a[0]
 for i in range(len(a)):
     if(a[i]>max):
